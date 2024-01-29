@@ -1,0 +1,18 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,LCSC Part
+,,,,,,
+0.33uF,Capacitor,C1,CAPR5-4X5,Cap2,1,
+0.1uF,Capacitor,C2,CAPR5-4X5,Cap2,1,
+100uf 25V,Capacitor,C3,CAPR5-4X5,Cap2,1,
+2200uf 16V,Capacitor,C4,CAPR5-4X5,Cap2,1,
+LED1,Typical RED GaAs LED,D1,LED-1,LED1,1,
+Diode 1N4007,1 Amp General Purpose Rectifier,"D2, D3",DO-41,Diode 1N4007,2,
+9V Battery,2 Pin Terminal Block 5mm Pitch,J1,HANDSON_KF301-2P,KF301-2P,1,
+12V Battery,2 Pin Terminal Block 5mm Pitch,J2,HANDSON_KF301-2P,KF301-2P,1,
+9V RELAY,RELAY POWER 10A 12VDC 1C PCB TYPE (JS1) 5PIN QIANJ,K1,JQC3FT731Z12VDC,JQC-3F-_T73_-1Z-12VDC,1,
+MQ135,"Header, 4-Pin",P1,HDR1X4,Header 4,1,
+HC-05 Bluetooth module,"Header, 6-Pin",P2,HDR1X6,Header 6,1,
+Header 6,"Header, 6-Pin",P3,HDR1X6,Header 6,1,
+Res1,Resistor,R1,AXIAL-0.3,Res1,1,
+ATTINY85-20PU,"AVR AVR® ATtiny, Functional Safety (FuSa) Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 8-PDIP",U1,DIP762W46P254L927H533Q8B,ATTINY85-20PU,1,C965497
+L7809CV,Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-220,U2,TO255P1040X460X1968-3,L7805CV,1,C8091
+L7805CV,Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-220,U3,TO255P1040X460X1968-3,L7805CV,1,C111887

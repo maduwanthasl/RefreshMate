@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Refreshmate_relay_module.PrjPcb]
+   Generated File[Refreshmate_relay_module_Copper_Signal_Top.gbr]
+   Generated File[Refreshmate_relay_module_Copper_Signal_Bot.gbr]
+   Generated File[Refreshmate_relay_module_Pads_Bot.gbr]
+   Generated File[Refreshmate_relay_module_Pads_Top.gbr]
+   Generated File[Refreshmate_relay_module_Soldermask_Bot.gbr]
+   Generated File[Refreshmate_relay_module_Legend_Top.gbr]
+   Generated File[Refreshmate_relay_module_Soldermask_Top.gbr]
+   Generated File[Refreshmate_relay_module_Keep-out.gbr]
+   Generated File[Refreshmate_relay_module_Mechanical_13.gbr]
+   Generated File[Refreshmate_relay_module_Mechanical_20.gbr]
+   Generated File[Refreshmate_relay_module_Mechanical_15.gbr]
+   Generated File[Refreshmate_relay_module_Profile.gbr]
+   Generated File[Refreshmate_relay_module_NPTH_Drill.gbr]
+   Generated File[Refreshmate_relay_module_PTH_Drill.gbr]
+   Generated File[Refreshmate_relay_module_Drawing_1.gbr]
+   Generated File[Refreshmate_relay_module_Drillmap_1.gbr]
+   Generated File[Refreshmate_relay_module.EXTREP]
+   Generated File[Refreshmate_relay_module.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 12:40:52 AM On 7/20/2023

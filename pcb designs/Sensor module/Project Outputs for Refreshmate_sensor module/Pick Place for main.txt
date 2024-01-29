@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+F:\altium\Refreshmate_sem1\Altium project\Refreshmate_sem1\Project Outputs for Refreshmate_sem1\Pick Place for main.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/07/23
+Time:       22:52
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                  Layer    Footprint                Center-X(mm) Center-Y(mm) Rotation Description                                                                                            
+P3         "Header 6"               TopLayer HDR1X6                   34.2900      6.0198       360      "Header, 6-Pin"                                                                                        
+U3         L7805CV                  TopLayer TO255P1040X460X1968-3    43.3070      17.4538      270      "Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-220"                                      
+U2         L7809CV                  TopLayer TO255P1040X460X1968-3    5.9121       17.4538      270      "Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-220"                                      
+U1         ATTINY85-20PU            TopLayer DIP762W46P254L927H533Q8B 25.0420      17.0628      90       "AVR AVR® ATtiny, Functional Safety (FuSa) Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 8-PDIP" 
+R1         Res1                     TopLayer AXIAL-0.3                34.5589      29.3553      360      Resistor                                                                                               
+P2         "HC-05 Bluetooth module" TopLayer HDR1X6                   13.2310      6.0198       360      "Header, 6-Pin"                                                                                        
+P1         MQ135                    TopLayer HDR1X4                   59.9210      28.4928      360      "Header, 4-Pin"                                                                                        
+K1         "9V RELAY"               TopLayer JQC3FT731Z12VDC          55.2990      15.4498      270      "RELAY POWER 10A 12VDC 1C PCB TYPE (JS1) 5PIN QIANJ"                                                   
+J2         "12V Battery"            TopLayer HANDSON_KF301-2P         8.4920       32.5568      180      "2 Pin Terminal Block 5mm Pitch"                                                                       
+J1         "9V Battery"             TopLayer HANDSON_KF301-2P         20.6911      32.0568      360      "2 Pin Terminal Block 5mm Pitch"                                                                       
+D3         "Diode 1N4007"           TopLayer DO-41                    66.5710      14.4498      90       "1 Amp General Purpose Rectifier"                                                                      
+D2         "Diode 1N4007"           TopLayer DO-41                    70.3580      14.4498      90       "1 Amp General Purpose Rectifier"                                                                      
+D1         LED1                     TopLayer LED-1                    37.1070      33.8568      180      "Typical RED GaAs LED"                                                                                 
+C4         "2200uf 16V"             TopLayer CAPR5-4X5                34.5670      13.8878      360      Capacitor                                                                                              
+C3         "100uf 25V"              TopLayer CAPR5-4X5                34.5670      19.9838      360      Capacitor                                                                                              
+C2         0.1uF                    TopLayer CAPR5-4X5                13.2780      13.8878      360      Capacitor                                                                                              
+C1         0.33uF                   TopLayer CAPR5-4X5                13.2780      19.9838      360      Capacitor                                                                                              
