@@ -14,4 +14,7 @@
 - Meticulous layout procedure: Careful component selection, testing, and systematic generation for optimal performance.
 - Final product features: Easy installation, operation, and maintenance with minimal energy consumption, emphasizing environmental friendliness.
 
+![Project Image](https://raw.githubusercontent.com/maduwanthasl/RefreshMate/main/Project%20images/Refreshmate%20project.png)
+
+
 #### Refreshmate project explain : https://drive.google.com/file/d/1oDDOuYQFnANiH_yXHOmqUqlNW3DxZMKs/view?usp=sharing
