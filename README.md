@@ -18,6 +18,8 @@
 
 ## How Rereshmate Works:
 
+[Refreshmate Project Explain](https://github.com/maduwanthasl/RefreshMate/assets/107339150/9a8a3949-62f4-4360-bf2a-769d5a35e4b5)
+
 - Gas Sensor Reading: The gas sensor reads the air quality value in the restroom environment.
 - ATTiny85 Processing: The ATTiny85 microcontroller(sensor module) processes the data based on the air quality value.
 - Data Transmission via HC-05 Bluetooth Module: Using the HC-05 Bluetooth module, the processed data is transmitted to the air freshener and fan modules.
@@ -31,5 +33,10 @@
 - Intelligent Microcontroller Control: The system strategically utilizes the compact ATTiny85 microcontroller for processing gas sensor data. The choice of ATTiny85, with its compact size and 8 pins, aligns seamlessly with project guidelines, allowing for a reduction in product size and cost. [Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
 - Selection of ESP01 Module: To the air freshener module and fan module, the ESP01 Tiny Arduino-based module is seamlessly integrated. This compact and cost-effective module not only aligns with the project's space and budget considerations but also lays the foundation for future enhancements. The ESP01 facilitates the potential integration of server-based data transmission, allowing users to monitor and analyze air quality data remotely. Furthermore, the inclusion of WiFi capabilities opens the door to user-friendly features, enabling remote on/off control via WiFi, enhancing the overall accessibility and functionality of the Refreshmate system.[Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/esp01.pdf)
 - Selection of HC-05 Bluetooth Module: I chose the HC-05 Bluetooth module for all modules due to its user-friendly attributes, including a small number of pins and ease of control.[Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/HC-05%20Datasheet.pdf)
+
+
+
+
+
   
 #### Refreshmate project explain : https://drive.google.com/file/d/1oDDOuYQFnANiH_yXHOmqUqlNW3DxZMKs/view?usp=sharing
