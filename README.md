@@ -85,6 +85,7 @@
 - Altium Designer
 - Proteus
 
+
 ## PCB Designs
 
 ### Sensor module
@@ -97,6 +98,22 @@
 | ![Air freshner module 3D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb.png) | ![Air freshner module 2D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb%202D%20view.png) |
 |---|---|
 | Air freshner module 3D | Air freshner module 2D |
+
+
+## Enclosure Design
+
+### Air Freshner module
+
+| ![Air Freshner module](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Air%20freshner%20module/Air%20freshner%20enclosure.png?raw=true)| ![Render image](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Air%20freshner%20module/Air%20freshner%20module.jpg?raw=true) |
+|---|---|
+| Air Freshner module | Render image |
+
+### Sensor module
+| ![Sensor module 3D](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Sensor%20module/Sensor%20module.png?raw=true) | ![Render image](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Sensor%20module/sensor%20module%20clean.jpg?raw=true) |
+|---|---|
+| Sensor module 3D | Render image |
+
+
 
 
   
