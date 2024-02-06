@@ -16,5 +16,9 @@
 
 ![Project Image](https://raw.githubusercontent.com/maduwanthasl/RefreshMate/main/Project%20images/Refreshmate%20project.png)
 
+## How Rereshmate works:
 
+- Advanced Gas Sensing: Refreshmate employs a cutting-edge MQ135 gas sensor, swiftly identifying NH3 (ammonia) and demonstrating sensitivity to various other gases in the restroom environment. [Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/SNS-MQ135.pdf)
+- Intelligent Microcontroller Control: The system strategically utilizes the compact ATTiny85 microcontroller for processing gas sensor data. The choice of ATTiny85, with its compact size and 8 pins, aligns seamlessly with project guidelines, allowing for a reduction in product size and cost. [Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
+- Selection of ESP01 Module: To the air freshener module and fan module, the ESP01 Tiny Arduino-based module is seamlessly integrated. This compact and cost-effective module not only aligns with the project's space and budget considerations but also lays the foundation for future enhancements. The ESP01 facilitates the potential integration of server-based data transmission, allowing users to monitor and analyze air quality data remotely. Furthermore, the inclusion of WiFi capabilities opens the door to user-friendly features, enabling remote on/off control via WiFi, enhancing the overall accessibility and functionality of the Refreshmate system.[Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/esp01.pdf)
 #### Refreshmate project explain : https://drive.google.com/file/d/1oDDOuYQFnANiH_yXHOmqUqlNW3DxZMKs/view?usp=sharing
