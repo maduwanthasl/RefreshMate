@@ -113,9 +113,8 @@
 |---|---|
 | Air Freshner module | Render image |
 
+## For More Information About Refreshmate
 
+- Final Project Report: [Project Report](https://raw.githubusercontent.com/maduwanthasl/RefreshMate/3827d9fda2ea041df4310b1e1ae76f7727d4d3ec/Project%20proposal/DAMD%20Designers_Final%20project%20report.pdf)
+- Refreshmate Project Explanation Video: [Explaining Video](https://drive.google.com/file/d/1oDDOuYQFnANiH_yXHOmqUqlNW3DxZMKs/view?usp=sharing)
 
-
-
-  
-#### Refreshmate project explain : https://drive.google.com/file/d/1oDDOuYQFnANiH_yXHOmqUqlNW3DxZMKs/view?usp=sharing
