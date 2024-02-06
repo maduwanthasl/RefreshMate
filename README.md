@@ -79,7 +79,24 @@
 | Heat Sinks               | Heat Sinks (x4)             |
 | Other Components         | Resistors, Capacitors, LEDs, Connecting Wires, Diodes, Plug Coverings, and more |
 
+## Software Specifications
 
+- Solidworks
+- Altium Designer
+- Proteus
+
+## PCB Designs
+
+### Sensor module
+
+| ![Sensor module 3D ](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Sensor%20module/sensor%20module%20pcb.png) | ![Sensor module 2D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Sensor%20module/sensor%20module%20pcb%202D%20view.png) |
+|---|---|
+| Sensor module 3D | Sensor module 2D |
+
+### Air freshner and Fan module
+| ![Air freshner module 3D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb.png) | ![Air freshner module 2D](https://github.com/maduwanthasl/RefreshMate/blob/main/pcb%20designs/Air%20freshner%20module%20%2B%20Fan%20module/Air%20freshner%20and%20fan%20module%20pcb%202D%20view.png) |
+|---|---|
+| Air freshner module 3D | Air freshner module 2D |
 
 
   
