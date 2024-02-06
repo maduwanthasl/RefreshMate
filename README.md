@@ -62,6 +62,23 @@
 3. **Fan Module:**
    - The fan module responds to received data by activating the fan. It adjusts the fan speed based on the detected level of pollutants. Higher levels of pollutants result in a higher fan speed, while lower levels lead to a slower fan speed.
 
+## Hardware Specifications
+
+| Component                | Specification              |
+|--------------------------|-----------------------------|
+| Gas Sensor               | MQ135                       |
+| Exhaust Fan              | AC Cooling Fan 8025        |
+| Air Freshener            | Airwick Air Freshener Spray 475ml |
+| DC Power Supply          | 3.7V LiPo Batteries (x3) and 9V Batteries |
+| AC Power Supply          | SMPS Power supply 12V |
+| Bluetooth Modules        | HC-05 (x6)                  |
+| Microcontroller          | ATTiny85                    |
+| ESP Modules              | ESP01 (x2)                  |
+| Motor                    | N/A                         |
+| Relay Modules            | 9V Relay Modules (x2) ,Two chaneel relay module |
+| Heat Sinks               | Heat Sinks (x4)             |
+| Other Components         | Resistors, Capacitors, LEDs, Connecting Wires, Diodes, Plug Coverings, and more |
+
 
 
 
