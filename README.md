@@ -20,12 +20,26 @@
 
 [Refreshmate Project Explain](https://github.com/maduwanthasl/RefreshMate/assets/107339150/9a8a3949-62f4-4360-bf2a-769d5a35e4b5)
 
-- Gas Sensor Reading: The gas sensor reads the air quality value in the restroom environment.
-- ATTiny85 Processing: The ATTiny85 microcontroller(sensor module) processes the data based on the air quality value.
-- Data Transmission via HC-05 Bluetooth Module: Using the HC-05 Bluetooth module, the processed data is transmitted to the air freshener and fan modules.
-- ESP01 Module Data Processing: The ESP01 modules in the air freshener and fan modules receive and process the transmitted data.
-- Exhaust Fan Operation: The exhaust fan is activated to expel dirty air rapidly in response to the processed data.
-- Air Freshener Activation: After a brief delay, the air freshener module is triggered, releasing a pleasant aroma into the restroom.
+**Modules:**
+- We utilize three primary modules: the sensor module, the air freshener module, and the fan module.
+
+**Gas Sensor Reading:**
+- The gas sensor reads the air quality value in the restroom environment.
+
+**ATTiny85 Processing:**
+- The ATTiny85 microcontroller (in the sensor module) processes the data based on the air quality value.
+
+**Data Transmission via HC-05 Bluetooth Module:**
+- Using the HC-05 Bluetooth module, the processed data is transmitted to the air freshener and fan modules.
+
+**ESP01 Module Data Processing:**
+- The ESP01 modules in the air freshener and fan modules receive and process the transmitted data.
+
+**Exhaust Fan Operation:**
+- The exhaust fan is activated to expel dirty air rapidly in response to the processed data.
+
+**Air Freshener Activation:**
+- After a brief delay, the air freshener module is triggered, releasing a pleasant aroma into the restroom.
 
 ## Why I Chose These Components:
 
@@ -36,6 +50,17 @@
 
 ## Block diagram of systems
 ![Block diagram](https://github.com/maduwanthasl/RefreshMate/blob/main/Block%20diagram/Main%20block%20daigram.png)
+
+## Submodules, Circuits, and Tasks:
+
+1. **Sensor Module:**
+   - The sensor module is responsible for reading data from the environment to assess air quality.
+
+2. **Air Freshener Module:**
+   - Upon receiving data, the air freshener module activates with a slight delay. It adjusts the release of air freshener liquid based on the detected level of pollutants. Higher levels of pollutants trigger a stronger release of the air freshener.
+
+3. **Fan Module:**
+   - The fan module responds to received data by activating the fan. It adjusts the fan speed based on the detected level of pollutants. Higher levels of pollutants result in a higher fan speed, while lower levels lead to a slower fan speed.
 
 
 
