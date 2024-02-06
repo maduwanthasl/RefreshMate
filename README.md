@@ -34,6 +34,8 @@
 - Selection of ESP01 Module: To the air freshener module and fan module, the ESP01 Tiny Arduino-based module is seamlessly integrated. This compact and cost-effective module not only aligns with the project's space and budget considerations but also lays the foundation for future enhancements. The ESP01 facilitates the potential integration of server-based data transmission, allowing users to monitor and analyze air quality data remotely. Furthermore, the inclusion of WiFi capabilities opens the door to user-friendly features, enabling remote on/off control via WiFi, enhancing the overall accessibility and functionality of the Refreshmate system.[Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/esp01.pdf)
 - Selection of HC-05 Bluetooth Module: I chose the HC-05 Bluetooth module for all modules due to its user-friendly attributes, including a small number of pins and ease of control.[Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/HC-05%20Datasheet.pdf)
 
+## Block diagram of systems
+![Block diagram](https://github.com/maduwanthasl/RefreshMate/blob/main/Block%20diagram/Main%20block%20daigram.png)
 
 
 
