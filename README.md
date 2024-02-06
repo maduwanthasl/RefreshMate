@@ -102,16 +102,17 @@
 
 ## Enclosure Design
 
+### Sensor module
+| ![Sensor module 3D](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Sensor%20module/Sensor%20module.png?raw=true) | ![Render image](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Sensor%20module/sensor%20module%20clean.jpg?raw=true) |
+|---|---|
+| Sensor module 3D | Render image |
+
 ### Air Freshner module
 
 | ![Air Freshner module](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Air%20freshner%20module/Air%20freshner%20enclosure.png?raw=true)| ![Render image](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Air%20freshner%20module/Air%20freshner%20module.jpg?raw=true) |
 |---|---|
 | Air Freshner module | Render image |
 
-### Sensor module
-| ![Sensor module 3D](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Sensor%20module/Sensor%20module.png?raw=true) | ![Render image](https://github.com/maduwanthasl/RefreshMate/blob/main/Solid%20works/Sensor%20module/sensor%20module%20clean.jpg?raw=true) |
-|---|---|
-| Sensor module 3D | Render image |
 
 
 
