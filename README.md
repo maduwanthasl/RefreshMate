@@ -48,6 +48,26 @@
 - Selection of ESP01 Module: To the air freshener module and fan module, the ESP01 Tiny Arduino-based module is seamlessly integrated. This compact and cost-effective module not only aligns with the project's space and budget considerations but also lays the foundation for future enhancements. The ESP01 facilitates the potential integration of server-based data transmission, allowing users to monitor and analyze air quality data remotely. Furthermore, the inclusion of WiFi capabilities opens the door to user-friendly features, enabling remote on/off control via WiFi, enhancing the overall accessibility and functionality of the Refreshmate system.[Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/esp01.pdf)
 - Selection of HC-05 Bluetooth Module: I chose the HC-05 Bluetooth module for all modules due to its user-friendly attributes, including a small number of pins and ease of control.[Read datasheet](https://github.com/maduwanthasl/RefreshMate/blob/main/Datasheets/HC-05%20Datasheet.pdf)
 
+## What I Did in This Project:
+🛠️ During this project, I was responsible for:
+
+- Defining clear objectives for Refreshmate, outlining the goals and desired outcomes.
+- Conducting thorough research and planning to understand the requirements and challenges of automated air renewal in public toilets.
+- Selecting appropriate components based on performance, compatibility, and cost considerations.
+- Performing simulations in Proteus to validate the functionality and performance of the system before implementation.
+- Testing individual components and subsystems to ensure functionality and reliability.
+- Designing PCBs using Altium Designer for efficient integration and layout of electronic components.
+- Creating enclosure designs in SolidWorks to house the electronic components securely and aesthetically.
+- Testing the system with Arduino Uno microcontroller to verify compatibility and functionality.
+- Soldering electronic components onto PCBs to assemble the hardware modules.
+- Conducting rigorous testing of PCBs to identify and rectify any issues or defects.
+- Implementing improvements based on testing results and feedback to enhance system performance and reliability.
+- Finalizing the design and configuration of Refreshmate for deployment in real-world settings.
+- Testing the system with prototype boards to evaluate performance under realistic conditions.
+- Designing circuit diagrams to document the electrical connections and configurations of the system.
+- Demonstrating the functionality of Refreshmate using Arduino Uno microcontroller for validation and verification.
+- Testing and debugging the system to address any issues or errors and ensure smooth operation.
+
 ## Block diagram of systems
 ![Block diagram](https://github.com/maduwanthasl/RefreshMate/blob/main/Block%20diagram/Main%20block%20daigram.png)
 
