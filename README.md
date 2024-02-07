@@ -84,6 +84,7 @@
 - Solidworks
 - Altium Designer
 - Proteus
+- Arduino IDE
 
 
 ## PCB Designs
